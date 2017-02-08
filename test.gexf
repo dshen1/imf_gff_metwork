@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="CDIS_IAD" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Switzerland" label="Switzerland" />
+      <node id="United Kingdom" label="United Kingdom" />
+      <node id="Japan" label="Japan" />
+      <node id="China, P.R.: Hong Kong" label="China, P.R.: Hong Kong" />
+      <node id="China, P.R.: Mainland" label="China, P.R.: Mainland" />
+      <node id="Singapore" label="Singapore" />
+      <node id="United States" label="United States" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Switzerland" target="United Kingdom">
+        <attvalues>
+          <attvalue for="0" value="69706.3125" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Switzerland" target="Japan">
+        <attvalues>
+          <attvalue for="0" value="10459.3017578125" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Switzerland" target="China, P.R.: Hong Kong">
+        <attvalues>
+          <attvalue for="0" value="8413.4560546875" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Switzerland" target="China, P.R.: Mainland">
+        <attvalues>
+          <attvalue for="0" value="20923.28515625" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Switzerland" target="Singapore">
+        <attvalues>
+          <attvalue for="0" value="24859.02734375" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Switzerland" target="United States">
+        <attvalues>
+          <attvalue for="0" value="264007.0625" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="United Kingdom" target="Switzerland">
+        <attvalues>
+          <attvalue for="0" value="43713.0859375" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="United Kingdom" target="Japan">
+        <attvalues>
+          <attvalue for="0" value="10105.076171875" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="United Kingdom" target="China, P.R.: Hong Kong">
+        <attvalues>
+          <attvalue for="0" value="75557.078125" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="United Kingdom" target="China, P.R.: Mainland">
+        <attvalues>
+          <attvalue for="0" value="18997.501953125" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="United Kingdom" target="Singapore">
+        <attvalues>
+          <attvalue for="0" value="32581.0546875" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="United Kingdom" target="United States">
+        <attvalues>
+          <attvalue for="0" value="439222.9375" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Japan" target="Switzerland">
+        <attvalues>
+          <attvalue for="0" value="6383.5517578125" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Japan" target="United Kingdom">
+        <attvalues>
+          <attvalue for="0" value="89168.671875" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Japan" target="China, P.R.: Hong Kong">
+        <attvalues>
+          <attvalue for="0" value="24716.482421875" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Japan" target="China, P.R.: Mainland">
+        <attvalues>
+          <attvalue for="0" value="108773.9296875" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Japan" target="Singapore">
+        <attvalues>
+          <attvalue for="0" value="50426.1796875" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="Japan" target="United States">
+        <attvalues>
+          <attvalue for="0" value="418515.75" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="China, P.R.: Hong Kong" target="Switzerland">
+        <attvalues>
+          <attvalue for="0" value="869.7503662109375" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="China, P.R.: Hong Kong" target="United Kingdom">
+        <attvalues>
+          <attvalue for="0" value="44287.20703125" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="China, P.R.: Hong Kong" target="Japan">
+        <attvalues>
+          <attvalue for="0" value="10832.861328125" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="China, P.R.: Hong Kong" target="China, P.R.: Mainland">
+        <attvalues>
+          <attvalue for="0" value="667384.0" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="China, P.R.: Hong Kong" target="Singapore">
+        <attvalues>
+          <attvalue for="0" value="18691.310546875" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="China, P.R.: Hong Kong" target="United States">
+        <attvalues>
+          <attvalue for="0" value="15700.6640625" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="China, P.R.: Mainland" target="Switzerland">
+        <attvalues>
+          <attvalue for="0" value="805.8330688476562" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="China, P.R.: Mainland" target="United Kingdom">
+        <attvalues>
+          <attvalue for="0" value="4746.525390625" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="China, P.R.: Mainland" target="Japan">
+        <attvalues>
+          <attvalue for="0" value="1815.045654296875" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="China, P.R.: Mainland" target="United States">
+        <attvalues>
+          <attvalue for="0" value="25952.001953125" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="China, P.R.: Mainland" target="China, P.R.: Hong Kong">
+        <attvalues>
+          <attvalue for="0" value="408451.0" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Singapore" target="Switzerland">
+        <attvalues>
+          <attvalue for="0" value="7169.76513671875" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="Singapore" target="United Kingdom">
+        <attvalues>
+          <attvalue for="0" value="9318.1865234375" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="Singapore" target="Japan">
+        <attvalues>
+          <attvalue for="0" value="15049.568359375" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Singapore" target="China, P.R.: Hong Kong">
+        <attvalues>
+          <attvalue for="0" value="50395.71484375" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="Singapore" target="China, P.R.: Mainland">
+        <attvalues>
+          <attvalue for="0" value="111218.0" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Singapore" target="United States">
+        <attvalues>
+          <attvalue for="0" value="34867.0" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="United States" target="Switzerland">
+        <attvalues>
+          <attvalue for="0" value="217581.0" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="United States" target="United Kingdom">
+        <attvalues>
+          <attvalue for="0" value="717895.0" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="United States" target="Japan">
+        <attvalues>
+          <attvalue for="0" value="135909.0" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="United States" target="China, P.R.: Hong Kong">
+        <attvalues>
+          <attvalue for="0" value="72366.0" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="United States" target="China, P.R.: Mainland">
+        <attvalues>
+          <attvalue for="0" value="85673.0" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="United States" target="Singapore">
+        <attvalues>
+          <attvalue for="0" value="244109.0" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
