@@ -1,0 +1,235 @@
+,country,matlab_community,python_community
+0,"Afghanistan, Islamic Republic of",1,4
+1,Albania,2,7
+2,Algeria,1,4
+3,American Samoa,3,0
+4,Andorra,4,2
+5,Angola,5,3
+6,Anguilla,4,2
+7,Antigua and Barbuda,4,2
+8,Argentina,4,2
+9,"Armenia, Republic of",5,3
+10,Aruba,6,6
+11,Australia,4,2
+12,Austria,5,3
+13,"Azerbaijan, Republic of",5,5
+14,"Bahamas, The",6,6
+15,"Bahrain, Kingdom of",7,5
+16,Bangladesh,3,0
+17,Barbados,3,0
+18,Belarus,5,3
+19,Belgium,1,4
+20,Belize,5,3
+21,Benin,3,0
+22,Bermuda,5,3
+23,Bhutan,3,0
+24,Bolivia,4,2
+25,"Bonaire, Sint Eustatius and Saba",6,6
+26,Bosnia and Herzegovina,2,7
+27,Botswana,8,1
+28,Bouvet Island,3,0
+29,Brazil,4,2
+30,British Indian Ocean Territory,8,1
+31,Brunei Darussalam,3,0
+32,Bulgaria,5,3
+33,Burkina Faso,8,1
+34,Burundi,8,1
+35,Cabo Verde,1,4
+36,Cambodia,3,0
+37,Cameroon,1,4
+38,Canada,4,2
+39,Cayman Islands,4,2
+40,Central African Republic,3,0
+41,Chad,8,1
+42,Chile,4,2
+43,"China, P.R.: Hong Kong",3,0
+44,"China, P.R.: Macao",3,0
+45,"China, P.R.: Mainland",3,0
+46,Colombia,4,2
+47,Comoros,8,1
+48,"Congo, Democratic Republic of",8,1
+49,"Congo, Republic of",1,4
+50,Cook Islands,3,0
+51,Costa Rica,4,2
+52,Cote d'Ivoire,8,1
+53,Croatia,2,7
+54,Cuba,4,2
+55,Curacao,6,6
+56,Curacao & St. Maarten,4,2
+57,Cyprus,5,3
+58,Czech Republic,5,3
+59,Denmark,6,6
+60,Djibouti,3,0
+61,Dominica,5,3
+62,Dominican Republic,4,2
+63,Ecuador,4,2
+64,Egypt,1,4
+65,El Salvador,4,2
+66,Equatorial Guinea,8,1
+67,Eritrea,1,4
+68,Estonia,5,3
+69,Ethiopia,1,4
+70,Faroe Islands,6,6
+71,Fiji,3,0
+72,Finland,5,3
+73,France,1,4
+74,French Territories: French Polynesia,3,0
+75,French Territories: New Caledonia,3,0
+76,Gabon,1,4
+77,"Gambia, The",3,0
+78,Georgia,5,3
+79,Germany,5,3
+80,Ghana,8,1
+81,Gibraltar,6,6
+82,Greece,5,3
+83,Greenland,6,6
+84,Grenada,5,3
+85,Guadeloupe,3,0
+86,Guam,3,0
+87,Guatemala,4,2
+88,Guernsey,6,6
+89,Guinea,8,1
+90,Guinea-Bissau,8,1
+91,Guyana,1,4
+92,Haiti,3,0
+93,Honduras,4,2
+94,Hungary,6,6
+95,Iceland,6,6
+96,India,8,1
+97,Indonesia,3,0
+98,"Iran, Islamic Republic of",5,3
+99,Iraq,6,6
+100,Ireland,6,6
+101,Isle of Man,6,6
+102,Israel,4,2
+103,Italy,1,4
+104,Jamaica,4,2
+105,Japan,4,2
+106,Jersey,6,6
+107,Jordan,7,5
+108,Kazakhstan,5,3
+109,Kenya,8,1
+110,Kiribati,5,3
+111,"Korea, Democratic People's Rep. of",8,0
+112,"Korea, Republic of",3,0
+113,"Kosovo, Republic of",2,7
+114,Kuwait,7,5
+115,Kyrgyz Republic,5,3
+116,Lao People's Democratic Republic,3,0
+117,Latvia,5,3
+118,Lebanon,8,1
+119,Lesotho,8,1
+120,Liberia,3,0
+121,Libya,7,5
+122,Liechtenstein,6,6
+123,Lithuania,5,3
+124,Luxembourg,6,6
+125,"Macedonia, FYR",2,7
+126,Madagascar,8,1
+127,Malawi,8,1
+128,Malaysia,3,0
+129,Maldives,8,1
+130,Mali,8,1
+131,Malta,3,0
+132,"Marshall Islands, Republic of",6,6
+133,Martinique,4,2
+134,Mauritania,8,1
+135,Mauritius,8,1
+136,Mayotte,8,1
+137,Mexico,4,2
+138,"Micronesia, Federated States of",8,1
+139,Moldova,5,3
+140,Monaco,1,4
+141,Mongolia,3,0
+142,Montenegro,2,7
+143,Montserrat,4,2
+144,Morocco,1,4
+145,Mozambique,8,1
+146,Myanmar,3,0
+147,Namibia,8,1
+148,Nauru,5,3
+149,Nepal,3,0
+150,Netherlands,5,3
+151,New Zealand,4,2
+152,Nicaragua,4,2
+153,Niger,8,1
+154,Nigeria,8,1
+155,Niue,3,0
+156,Norway,5,3
+157,Oman,7,5
+158,Pakistan,6,5
+159,Palau,3,0
+160,Panama,4,2
+161,Papua New Guinea,1,4
+162,Paraguay,4,2
+163,Peru,4,2
+164,Philippines,4,2
+165,Poland,5,3
+166,Portugal,5,3
+167,Puerto Rico,4,2
+168,Qatar,6,6
+169,Reunion,8,1
+170,Romania,5,3
+171,Russian Federation,5,3
+172,Rwanda,8,1
+173,Samoa,3,0
+174,San Marino,1,4
+175,Sao Tome and Principe,2,7
+176,Saudi Arabia,7,5
+177,Senegal,8,1
+178,"Serbia, Republic of",2,7
+179,Seychelles,3,0
+180,Sierra Leone,8,1
+181,Singapore,8,0
+182,Sint Maarten,4,2
+183,Slovak Republic,5,3
+184,Slovenia,2,7
+185,Solomon Islands,1,4
+186,Somalia,3,0
+187,South Africa,8,1
+188,South Sudan,8,1
+189,Spain,4,2
+190,Sri Lanka,8,0
+191,St. Kitts and Nevis,5,3
+192,St. Lucia,6,6
+193,St. Vincent and the Grenadines,5,3
+194,Sub-Saharan Africa,8,1
+195,Sudan,5,3
+196,Suriname,4,2
+197,Swaziland,8,1
+198,Sweden,5,3
+199,Switzerland,6,6
+200,Syrian Arab Republic,5,3
+201,Taiwan Province of China,3,0
+202,Tajikistan,5,3
+203,Tanzania,8,1
+204,Thailand,3,0
+205,"Timor-Leste, Dem. Rep. of",3,0
+206,Togo,8,1
+207,Tonga,3,0
+208,Trinidad and Tobago,6,6
+209,Tunisia,8,1
+210,Turkey,5,5
+211,Turkmenistan,5,5
+212,Turks and Caicos Islands,5,3
+213,Tuvalu,3,0
+214,US Pacific Islands,3,0
+215,US Virgin Islands,3,0
+216,Uganda,8,1
+217,Ukraine,5,3
+218,United Arab Emirates,6,5
+219,United Kingdom,6,6
+220,United States,4,2
+221,Uruguay,4,2
+222,Uzbekistan,5,3
+223,Vanuatu,3,0
+224,Vatican,1,4
+225,"Venezuela, Republica Bolivariana de",4,2
+226,Vietnam,6,6
+227,"Virgin Islands, British",3,0
+228,Wallis and Futuna,5,3
+229,West Bank and Gaza,7,5
+230,Western Sahara,3,0
+231,"Yemen, Republic of",8,1
+232,Zambia,8,1
+233,Zimbabwe,8,1
